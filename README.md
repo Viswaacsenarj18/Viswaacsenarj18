@@ -57,7 +57,9 @@ I'm Viswaacsenar J, a Computer Science Engineering student at Nandha Engineering
 <img src="https://img.shields.io/badge/VS%20Code-1A5276?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-1A5276?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-1A5276?style=flat-square&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-1A5276?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-1A5276?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD%20(Basics)-1A5276?style=flat-square&logo=adobexd&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator%20(Basics)-1A5276?style=flat-square&logo=adobeillustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-1A5276?style=flat-square&logo=googlecolab&logoColor=white" />
 
 **Additional Skills**
