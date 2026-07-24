@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN+Stack);UI%2FUX+Designer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+(MERN+Stack);UI%2FUX+Designer;GenAI+Learner;Java+Developer;AI+%26+IoT+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
