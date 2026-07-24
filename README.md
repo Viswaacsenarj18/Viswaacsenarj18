@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋, I'm Viswaac Senar
+</h1>
 
-<!--
-**Viswaacsenarj18/Viswaacsenarj18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer • UI/UX Designer • Java Developer • MERN Stack Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I love building modern web applications, designing intuitive user experiences, and solving real-world problems using technology.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Currently pursuing B.E. Computer Science & Engineering at Nandha Engineering College.
+</p>
