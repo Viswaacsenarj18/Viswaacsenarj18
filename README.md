@@ -55,7 +55,7 @@ I'm Viswaacsenar J, a Computer Science Engineering student at Nandha Engineering
 <img src="https://img.shields.io/badge/Git-1A5276?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-1A5276?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-1A5276?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-1A5276?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-1A5276?style=flat-square&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-1A5276?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-1A5276?style=flat-square&logo=canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-1A5276?style=flat-square&logo=adobephotoshop&logoColor=white" />
