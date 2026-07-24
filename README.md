@@ -1,33 +1,29 @@
-<div align="center" style="font-family: 'Times New Roman', Times, serif;">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Viswaacsenar%20J&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=68&descColor=A9D6E5&descSize=17" width="100%"/>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,17,28&height=180&section=header&text=Viswaacsenar%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Passionate%20About%20Building%20Scalable%20Applications&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://viswaacsenar.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=A9D6E5" />
+  <img src="https://img.shields.io/badge/Portfolio-1A5276?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/viswaac-senar-5a1b682a2">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:viswaacsenarj18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Viswaacsenarj18&style=for-the-badge&color=2C5364&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Viswaacsenarj18&style=flat-square&color=70A5FD" />
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(MERN+Stack);UI%2FUX+Designer;Building+User-Centric%2C+Scalable+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN+Stack);UI%2FUX+Designer;Building+User-Centric%2C+Scalable+Applications;Open+to+Internships+and+Collaborations" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<font face="Times New Roman">
+## 👨‍💻 About Me
 
-## 👨‍💻 Professional Summary
-
-Motivated Full Stack Web Developer and UI/UX Designer with hands-on experience in building responsive web applications using the **MERN Stack**. Strong foundation in Java, Data Structures & Algorithms, and modern web technologies. Passionate about creating user-centric, scalable applications and delivering intuitive digital experiences.
+I'm Viswaacsenar J, a Computer Science Engineering student at Nandha Engineering College with a strong passion for Full Stack Web Development and UI/UX Design. I specialize in building responsive, user-centric applications using the MERN Stack, and enjoy turning ideas into scalable, real-world digital products. I've worked on projects spanning AI, IoT, and E-Commerce, including a smart agriculture platform selected as a Grand Finale Finalist at IIT Madras, and a client-delivered sports e-commerce website. Currently expanding my skills in Data Structures & Algorithms and Java, I actively seek opportunities to collaborate, learn, and contribute to innovative, impactful projects.
 
 <br/>
 
@@ -35,39 +31,39 @@ Motivated Full Stack Web Developer and UI/UX Designer with hands-on experience i
 
 **Programming Language**
 
-<img src="https://img.shields.io/badge/Java-0F2027?style=flat-square&logo=openjdk&logoColor=A9D6E5" />
+<img src="https://img.shields.io/badge/Java-1A5276?style=flat-square&logo=openjdk&logoColor=white" />
 
 **Web**
 
-<img src="https://img.shields.io/badge/HTML5-0F2027?style=flat-square&logo=html5&logoColor=A9D6E5" />
-<img src="https://img.shields.io/badge/CSS3-0F2027?style=flat-square&logo=css3&logoColor=A9D6E5" />
-<img src="https://img.shields.io/badge/JavaScript-0F2027?style=flat-square&logo=javascript&logoColor=A9D6E5" />
+<img src="https://img.shields.io/badge/HTML5-1A5276?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1A5276?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-1A5276?style=flat-square&logo=javascript&logoColor=white" />
 
 **Frameworks & Libraries**
 
-<img src="https://img.shields.io/badge/React.js-0F2027?style=flat-square&logo=react&logoColor=A9D6E5" />
-<img src="https://img.shields.io/badge/Node.js-0F2027?style=flat-square&logo=nodedotjs&logoColor=A9D6E5" />
-<img src="https://img.shields.io/badge/Express.js-0F2027?style=flat-square&logo=express&logoColor=A9D6E5" />
+<img src="https://img.shields.io/badge/React.js-1A5276?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-1A5276?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-1A5276?style=flat-square&logo=express&logoColor=white" />
 
 **Databases**
 
-<img src="https://img.shields.io/badge/MongoDB-0F2027?style=flat-square&logo=mongodb&logoColor=A9D6E5" />
-<img src="https://img.shields.io/badge/MySQL-0F2027?style=flat-square&logo=mysql&logoColor=A9D6E5" />
+<img src="https://img.shields.io/badge/MongoDB-1A5276?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-1A5276?style=flat-square&logo=mysql&logoColor=white" />
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-0F2027?style=flat-square&logo=git&logoColor=A9D6E5" />
-<img src="https://img.shields.io/badge/GitHub-0F2027?style=flat-square&logo=github&logoColor=A9D6E5" />
-<img src="https://img.shields.io/badge/VS%20Code-0F2027?style=flat-square&logo=visualstudiocode&logoColor=A9D6E5" />
-<img src="https://img.shields.io/badge/Figma-0F2027?style=flat-square&logo=figma&logoColor=A9D6E5" />
-<img src="https://img.shields.io/badge/Canva-0F2027?style=flat-square&logo=canva&logoColor=A9D6E5" />
-<img src="https://img.shields.io/badge/Photoshop-0F2027?style=flat-square&logo=adobephotoshop&logoColor=A9D6E5" />
-<img src="https://img.shields.io/badge/Google%20Colab-0F2027?style=flat-square&logo=googlecolab&logoColor=A9D6E5" />
+<img src="https://img.shields.io/badge/Git-1A5276?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-1A5276?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-1A5276?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-1A5276?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-1A5276?style=flat-square&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-1A5276?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-1A5276?style=flat-square&logo=googlecolab&logoColor=white" />
 
 **Additional Skills**
 
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-2C5364?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive%20Web%20Design-2C5364?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-70A5FD?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-70A5FD?style=flat-square&logoColor=white" />
 
 **Soft Skills**
 
@@ -79,16 +75,16 @@ Teamwork · Leadership · Communication · Problem Solving · Time Management
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Viswaacsenarj18&show_icons=true&theme=default&bg_color=ffffff&title_color=0F2027&icon_color=2C5364&text_color=333333&border_color=2C5364&hide_border=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswaacsenarj18&layout=compact&theme=default&bg_color=ffffff&title_color=0F2027&text_color=333333&border_color=2C5364&hide_border=false" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Viswaacsenarj18&show_icons=true&theme=default&bg_color=ffffff&title_color=1A5276&icon_color=70A5FD&text_color=333333&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswaacsenarj18&layout=compact&theme=default&bg_color=ffffff&title_color=1A5276&text_color=333333&hide_border=true" width="38%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Viswaacsenarj18&theme=default&background=ffffff&ring=0F2027&fire=2C5364&border=2C5364&hide_border=false" width="60%" />
+<img src="https://streak-stats.demolab.com?user=Viswaacsenarj18&theme=default&background=ffffff&ring=1A5276&fire=70A5FD&hide_border=true" width="60%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Viswaacsenarj18&bg_color=ffffff&color=0F2027&line=0F2027&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Viswaacsenarj18&bg_color=ffffff&color=1A5276&line=1A5276&hide_border=true" width="90%" />
 
 </div>
 
@@ -157,21 +153,19 @@ Higher Secondary Certificate (HSC) | Percentage: **73.6%**
 
 ## 📚 Currently Exploring
 
-<img src="https://img.shields.io/badge/Learning%20DSA%20%26%20Java-2C5364?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Designing-2C5364?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning%20DSA%20%26%20Java-70A5FD?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Designing-70A5FD?style=flat-square&logoColor=white" />
 
-</font>
-
-<br/>
+<br/><br/>
 
 <div align="center">
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=A9D6E5)](https://viswaacsenar.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswaac-senar-5a1b682a2)
-[![Gmail](https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viswaacsenarj18@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A5276?style=flat-square&logo=vercel&logoColor=white)](https://viswaacsenar.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswaac-senar-5a1b682a2)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:viswaacsenarj18@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,17,28&height=120&section=footer" width="100%"/>
 
 </div>
