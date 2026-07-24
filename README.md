@@ -1,66 +1,76 @@
-<div align="center">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=180&section=header&text=Viswaacsenar%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=180&section=header&text=Viswaacsenar%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=62&descSize=16" width="100%"/>
 
+<a href="https://viswaacsenar.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/viswaac-senar-5a1b682a2">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:viswaacsenarj18@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://viswaacsenar.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=flat-square&logo=vercel&logoColor=white" />
-</a>
 <img src="https://komarev.com/ghpvc/?username=Viswaacsenarj18&style=flat-square&color=06B6D4" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(MERN);UI%2FUX+Designer+%7C+AI%2FML+Explorer;Building+Real-World%2C+User-Centric+Products;Open+to+Internships+and+Collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(MERN+Stack);UI%2FUX+Designer;Building+User-Centric%2C+Scalable+Applications" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+<font face="Times New Roman">
 
-I'm **Viswaacsenar J**, a Computer Science Engineering student at Nandha Engineering College with a passion for building full-stack web applications and crafting intuitive UI/UX experiences. I work primarily with the **MERN Stack**, and I love turning ideas into polished, production-ready products — from e-commerce platforms to IoT-powered smart agriculture systems. I'm also expanding into **AI/ML and agentic AI systems**, building autonomous tools that understand and reason about code. Currently exploring opportunities to collaborate on impactful, real-world tech projects.
+## 👨‍💻 Professional Summary
+
+Motivated Full Stack Web Developer and UI/UX Designer with hands-on experience in building responsive web applications using the **MERN Stack**. Strong foundation in Java, Data Structures & Algorithms, and modern web technologies. Passionate about creating user-centric, scalable applications and delivering intuitive digital experiences.
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Skills Summary
 
-**Languages**
+**Programming Language**
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-**Web / MERN Stack**
+**Web**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-06B6D4?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+**Frameworks & Libraries**
+
+<img src="https://img.shields.io/badge/React.js-06B6D4?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+
+**Databases**
+
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-**AI / ML**
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-06B6D4?style=flat-square&logo=databricks&logoColor=white" />
-
-**Tools & Design**
+**Tools**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+
+**Additional Skills**
+
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-22D3EE?style=flat-square" />
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-22D3EE?style=flat-square" />
+<img src="https://img.shields.io/badge/Basic%20Machine%20Learning-22D3EE?style=flat-square" />
+
+**Soft Skills**
+
+Teamwork · Leadership · Communication · Problem Solving · Time Management
 
 <br/>
 
@@ -79,9 +89,29 @@ I'm **Viswaacsenar J**, a Computer Science Engineering student at Nandha Enginee
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viswaacsenarj18&theme=tokyo-night&bg_color=0d1117&color=22D3EE&line=22D3EE&hide_border=true" width="90%" />
 
+</div>
+
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Viswaacsenarj18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="90%" />
+## 🎓 Education
+
+**Nandha Engineering College** (2023 – Present)
+B.E – Computer Science and Engineering | CGPA: **7.96 / 10** (Up to 5th Semester)
+
+**Saratha Matric Higher Secondary School** (2023)
+Higher Secondary Certificate (HSC) | Percentage: **73.6%**
+
+<br/>
+
+## 🚀 Projects
+
+<div align="center">
+
+| Project | Technologies Used | Description |
+|:---|:---:|:---|
+| **HillSmart Farming** – AI & IoT-Based Smart Agriculture Platform *(PALS innoWAH! 2026 Grand Finale Finalist)* | React.js, Node.js, Express.js, MongoDB, Cloudinary, JavaScript, REST API, ESP32, Arduino, ThingSpeak, IoT Sensors | AI and IoT-powered smart agriculture platform for hill farming featuring real-time environmental monitoring, automated irrigation, crop health tracking, weather monitoring, and a farmer dashboard. Selected as a Grand Finale Finalist in PALS innoWAH! 2025–26 at IIT Madras. [GitHub ↗](https://github.com/Viswaacsenarj18/PALS-IIT-PROJECT) |
+| **Jaihind Sports E-Commerce Website** *(Client Project – ₹41,566)* | TypeScript, React, Node.js, Express.js, MongoDB, Bootstrap, Vite, Axios, JWT, REST API | MERN Stack sports e-commerce platform featuring product listings, category filtering, shopping cart, user authentication, and an admin dashboard. [GitHub ↗](https://github.com/Viswaacsenarj18/jaihind-sporty-spark) · [Live ↗](https://www.jaihindsportsfit.in/) |
+| **OTT Prime Streaming Platform** | HTML, CSS, JavaScript | Full-featured streaming platform website with a responsive UI, category-based browsing, movie cards, and modern UI components. [GitHub ↗](https://github.com/Viswaacsenarj18/-OTT-PRIME-STREAMING-PLATFORM-WEBSITE-1) · [Live ↗](https://ottprimestream.netlify.app/) |
 
 </div>
 
@@ -93,7 +123,7 @@ I'm **Viswaacsenar J**, a Computer Science Engineering student at Nandha Enginee
 <summary><b>Full Stack Development Intern</b> | NXT Logic Software Solutions (14 Days)</summary>
 <br/>
 
-- Developed a responsive MERN Stack e-commerce website with product management and user-friendly features.
+- Developed a responsive MERN Stack E-Commerce website with product management and user-friendly features.
 - Built frontend interfaces using React.js and integrated Node.js, Express.js, and MongoDB for backend functionality.
 
 </details>
@@ -109,48 +139,20 @@ I'm **Viswaacsenar J**, a Computer Science Engineering student at Nandha Enginee
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Description |
-|:---|:---:|:---|
-| **HillSmart Farming** — AI & IoT Smart Agriculture Platform | React, Node.js, Express, MongoDB, ESP32, LoRa, ThingSpeak | AI + IoT-powered platform for hill farming with real-time environmental monitoring, automated irrigation, crop health tracking, and a live farmer dashboard. **PALS innoWAH! 2026 Grand Finale Finalist, IIT Madras.** |
-| **Jaihind Sports** — E-Commerce Platform (Client Project) | TypeScript, React, Node.js, Express, MongoDB, JWT | Full MERN sports e-commerce site with product listings, category filtering, shopping cart, auth, and an admin dashboard. [Live ↗](https://www.jaihindsportsfit.in/) |
-| **OTT Prime** — Streaming Platform | HTML, CSS, JavaScript | A full-featured streaming platform UI with category-based browsing, movie cards, and a smooth, responsive experience. [Live ↗](https://ottprimestream.netlify.app/) |
-| **CodePilot AI** — Autonomous Code-Understanding Agent | LangGraph, LangChain, OpenAI, ChromaDB, FastAPI | An agentic AI system that reads, understands, and reasons about codebases autonomously. |
-
-</div>
-
-<br/>
-
 ## 🏆 Achievements & Hackathons
 
 <div align="center">
 
 | Category | Highlight |
 |:---|:---|
-| 🥇 Finalist | **PALS innoWAH! 2025–26 Grand Finale**, IIT Madras — HillSmart Farming |
-| 🥈 3rd Prize | Paper Presentation — *"Automated Exam Hall Seat Allocation System using Deep Learning"*, SSREC, Coimbatore (2025) |
-| 🧩 Hackathon | Participant — 24-Hour National Level Hackathon on Hill Smart Farming, Sri Sairam College of Engineering, Bangalore (2025) |
-| 🧩 Hackathon | Participant — REGENHACK VR 2.0, SRM Institute of Science and Technology, Chennai (2025) |
+| 🥈 3rd Prize | Paper Presentation – *"Automated Exam Hall Seat Allocation System using Deep Learning"*, Sri Sai Ranganathan Engineering College, Thondamuthur, Coimbatore (2025) |
+| 🧩 Hackathon | Participated in 24-Hour National Level Hackathon on Hill Smart Farming, Sri Sairam College of Engineering, Gudnahalli, Bangalore (2025) |
+| 🧩 Hackathon | Participated in REGENHACK VR 2.0 Hackathon, SRM Institute of Science and Technology, Kattankulathur, Chennai (2025) |
+| 🥇 Finalist | PALS Innowah 2026, IIT Madras – Presented "HillSmart Farming", an AI-based smart agriculture platform with IoT integration for farm monitoring and automation |
 
 </div>
 
-<br/>
-
-## 🎓 Education
-
-- **B.E. Computer Science & Engineering** — Nandha Engineering College (2023 – Present) — CGPA: **7.96 / 10** (up to 5th Semester)
-- **Higher Secondary Certificate (HSC)** — Saratha Matric Higher Secondary School (2023) — 73.6%
-
-<br/>
-
-## 📚 Currently Exploring
-
-<img src="https://img.shields.io/badge/Agentic%20AI-In%20Progress-22D3EE?style=flat-square" />
-<img src="https://img.shields.io/badge/LangGraph-In%20Progress-22D3EE?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer%20Vision-In%20Progress-22D3EE?style=flat-square" />
+</font>
 
 <br/>
 
