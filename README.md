@@ -157,6 +157,7 @@ Higher Secondary Certificate (HSC) | Percentage: **73.6%**
 ## 📚 Currently Exploring
 
 <img src="https://img.shields.io/badge/Learning%20DSA%20%26%20Java-70A5FD?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning%20Generative%20AI-70A5FD?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Designing-70A5FD?style=flat-square&logoColor=white" />
 
 <br/><br/>
